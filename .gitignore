@@ -1,6 +1,8 @@
 #csv and dataset file
 *.csv
-test-case-1-dataset/
+test-case-1-dataset/images/images
+test-case-1-dataset/test/test/classify
+test-case-1-dataset/validation/validation
 
 #zip file
 *.zip
