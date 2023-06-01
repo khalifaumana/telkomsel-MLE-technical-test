@@ -1,5 +1,16 @@
+#csv and dataset file
+*.csv
+test-case-1-dataset/
+
+#zip file
+*.zip
+
+#model file
+*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+PrototypePages/__pycache__
 *.py[cod]
 *$py.class
 
